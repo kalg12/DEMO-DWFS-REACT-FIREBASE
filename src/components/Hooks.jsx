@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-const Crud = () => {
+const Hooks = () => {
   const [miMensaje, setMiMensaje] = useState("Cargando...");
   const [isLoading, setIsLoading] = useState(true);
 
@@ -35,4 +35,4 @@ const Crud = () => {
   );
 };
 
-export default Crud;
+export default Hooks;

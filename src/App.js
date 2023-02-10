@@ -1,8 +1,8 @@
 import React from "react";
-import Crud from "./components/Crud";
+import MiCrud from "./components/MiCrud";
 
 const App = () => {
-  return <Crud />;
+  return <MiCrud />;
 };
 
 export default App;
