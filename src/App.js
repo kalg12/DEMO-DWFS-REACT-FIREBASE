@@ -1,7 +1,8 @@
 import React from "react";
+import Crud from "./components/Crud";
 
 const App = () => {
-  return <div>App</div>;
+  return <Crud />;
 };
 
 export default App;
